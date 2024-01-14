@@ -1,2 +1,2 @@
-# thedailypost.gihub.io
-https://thedailypost.gihub.io
+#[Home](def)
+def: https://thedailypost.github.io
